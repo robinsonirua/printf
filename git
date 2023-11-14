@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *
 git add .
-git commit -m "partner two pushing"
+git commit -m "partner one Robinson pushing"
 git push
